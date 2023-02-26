@@ -12,7 +12,7 @@ This is a very small and simple prototype made in Unity, inspired by the "Diablo
 - Unity v2021.3.19f1
 
 > What is the development period?
-- From june 13th 2022 to june 27th 2022 [14 days period]
+- From June 13th 2022 to June 27th 2022 [14 days period]
 
 ## Credits
 - [EpsilonsQc](https://github.com/EpsilonsQc) - developed in solo by me
