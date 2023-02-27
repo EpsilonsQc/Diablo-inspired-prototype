@@ -20,7 +20,6 @@ This is a very small and simple prototype made in Unity, inspired by the "Diablo
 
 ## Credits
 - [EpsilonsQc](https://github.com/EpsilonsQc) - developed in solo by me
-- All the assets (textures, sounds, etc.) were found on the internet (either from the Asset Store or from other sources)
 
 ## Legal
-The source code in this repository is for non-commercial use only. If you use the source code you may not charge others for access to it or any derivative work thereof.
+The source code in this repository is for non-commercial use only. If you use the source code you may not charge others for access to it or any derivative work thereof. All the assets (textures, sounds, etc.) were found on the internet (either purchased from the Asset Store or from other sources).
