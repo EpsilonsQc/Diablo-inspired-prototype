@@ -1,4 +1,5 @@
 <h1 align="center">Diablo inspired prototype</h1>
+<p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221449113-f2b73e65-c0e9-42fb-90ff-5ce9f5a66787.png"></p>
 <p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221437926-51f8ccbc-db69-4603-a4b4-3208b739e265.png"></p>
 
 ---
