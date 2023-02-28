@@ -5,7 +5,7 @@
 ---
 
 ## Introduction
-This is a prototype made in Unity, inspired by the "Diablo" franchise and developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is my final project for the "Prototyping" course (session 2 of 5).
+This is a prototype made in Unity, inspired by the "Diablo" franchise. It was developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is my final project for the "Prototyping" course (session 2 of 5).
 
 ## F.A.Q.
 
